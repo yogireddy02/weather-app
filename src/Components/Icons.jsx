@@ -14,4 +14,3 @@ export const HumidityIcon = (props) => <Icon src={humidityIcon} alt="Humidity Ic
 export const VisibilityIcon = (props) => <Icon src={visibilityIcon} alt="Visibility Icon" className="powerful-pulse svg-hover" {...props} />;
 export const SunriseIcon = (props) => <Icon src={sunriseIcon} alt="Sunrise Icon" className="powerful-pulse svg-hover" {...props} />;
 export const SunsetIcon = (props) => <Icon src={sunsetIcon} alt="Sunset Icon" className="powerful-pulse svg-hover" {...props} />;
-
