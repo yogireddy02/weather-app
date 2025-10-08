@@ -1,4 +1,4 @@
-# Weather App (React + Vite)
+ # Weather App (React + Vite)
 
 Small React weather app built with Vite. It fetches current weather using OpenWeather APIs, shows basic details (temperature, humidity, wind, visibility, sunrise/sunset), and displays a background animation/video matching the weather.
 
