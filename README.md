@@ -1,6 +1,8 @@
- # Weather App (React + Vite)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Online-brightgreen?style=for-the-badge&logo=vercel)](https://weather-app-ten-coral-25.vercel.app/)
 
-Small React weather app built with Vite. It fetches current weather using OpenWeather APIs, shows basic details (temperature, humidity, wind, visibility, sunrise/sunset), and displays a background animation/video matching the weather.
+# Weather App (React + Vite)
+
+Small React weather app built with Vite. It fetches current weather using OpenWeather APIs, shows basic details (temperature, humidity, wind, visibility, sunrise/sunset), and displays a background image based on weather conditions.
 
 This README describes how to run the project locally, where to place your OpenWeather API key, and a couple of troubleshooting tips.
 
@@ -51,4 +53,4 @@ This is safer for source control than hardcoding the key.
 
 ## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/crea[...]
